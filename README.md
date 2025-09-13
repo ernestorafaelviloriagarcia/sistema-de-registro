@@ -2,3 +2,5 @@
 . Estado del proyecto en construccion
 
 . Se definira el procedimiento de instalacion
+
+Sistema de Registro 2
